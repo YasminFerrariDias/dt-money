@@ -20,11 +20,11 @@ Aplicação de controle financeiro desenvolvida com React e TypeScript, com regi
 
 ## Como Executar
 
-```bash
+\`\`\`bash
 npm install
-npm run dev      # inicia o front-end
-npm run server   # inicia a API fake (json-server)
-```
+npm run dev         # inicia o front-end
+npm run dev:server  # inicia a API fake (json-server)
+\`\`\`
 
 ## Deploy
 
